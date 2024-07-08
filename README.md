@@ -1,10 +1,10 @@
 # A Pythonic Version of the GNU Radio Companion script grc_to_37.sh  
   
-This is a pythonic version of the GNU Radio companion 3.x to 3.7 updater script as described here,    
+This is a pythonic version of the GNU Radio companion 3.6 to 3.7 (or 3.8, 3.9 and 3.10) updater script as described here,    
   
   https://wiki.gnuradio.org/index.php/Move_3-6_to_3-7#Restructure_of_GRC_Category_Names_to_Help_Transition   
     
-This program works, but is not Windows friendly.  
+This script above works, but is not Windows friendly.  
   
 ## Usage:  
   
