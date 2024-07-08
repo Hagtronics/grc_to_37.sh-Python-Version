@@ -14,7 +14,7 @@ Run the script as,
   
 `python.exe grc_to_37.py my_radio.grc`  
   
-* The file named: "my_radio.grc" will be created, this is the converted file.  
+* A file named: "my_radio.grc" will be created, this is the converted file.  
   
 * A file named: "my_radio.grc.bak" will be created, this is a copy of the original file.   
   
