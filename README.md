@@ -21,5 +21,9 @@ Run the script as,
 Note: This script will convert block names but don't expect the converted flowgraph to run without further rework. What you will get is blocks where you at least read the parameters, etc. which will help you in the conversion work.  
   
 Also WX GUI controls no longer exist, so these will need to be converted to QT GUI controls.  
+
+You can read more about the process at this blogpost,  
   
+  https://gnuradio-cookbook.blogspot.com/2024/07/updating-old-gnuradio-companion.html
+
 Enjoy :-)  
